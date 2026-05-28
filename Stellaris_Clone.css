@@ -6,3 +6,11 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+#Par_Logo {
+    height: 50%;
+    width: auto;
+}
